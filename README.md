@@ -1,8 +1,6 @@
 # NODE(express) Typescript Starter
 
-based on https://brettfisher.dev/typescript-template/
-
-## GUIDE
+## - GUIDE
 
 ```
 - clone repo
@@ -12,3 +10,6 @@ based on https://brettfisher.dev/typescript-template/
 - yarn start (run build)
 
 ```
+
+
+Based on https://brettfisher.dev/typescript-template/
